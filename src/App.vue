@@ -9,6 +9,8 @@
         <router-link to="/login">Login</router-link>
         |
         <router-link to="/city/Tokyo">Tokyo</router-link>
+        |
+        <router-link to="/cities">Cities</router-link>
       </header>
 
       <router-view />
